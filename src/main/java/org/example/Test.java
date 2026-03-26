@@ -7,7 +7,7 @@ import java.util.Scanner;
 // creates Triangles, and prints information to the screen
 // Chad Swift
 // SDEV200-50P
-// Module 1 Assignment 3
+// Module 2 Assignment 2
 
 /**
  * Test class to test Triangle class
