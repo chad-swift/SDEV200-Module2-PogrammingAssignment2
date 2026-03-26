@@ -2,6 +2,13 @@ package org.example;
 
 import java.util.Scanner;
 
+// Triangle class definition and tester
+// Triangle class inherits GeometricObject,
+// creates Triangles, and prints information to the screen
+// Chad Swift
+// SDEV200-50P
+// Module 1 Assignment 3
+
 /**
  * Test class to test Triangle class
  */
